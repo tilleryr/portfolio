@@ -1,6 +1,6 @@
 # reneetillery.github.io
 
-Personal portfolio site for Renee Tillery — operations executive, AI builder, and no-code developer.
+Personal portfolio site for an operations executive, AI builder, and no-code developer. Ultimately not deployed. 
 
 **Live site:** [tilleryr.github.io](https://tilleryr.github.io)
 
@@ -10,7 +10,7 @@ Personal portfolio site for Renee Tillery — operations executive, AI builder, 
 
 This site serves as a portfolio and professional introduction for recruiters, hiring managers, and potential consulting clients. It covers:
 
-- **Builds** — AI tools and automation workflows built during the Leland AI Mastery Bootcamp and independently
+- **Builds** — AI tools and automation workflows built during the Leland AI classes and independently
 - **Strategy & Governance** — policy documents, strategy frameworks, and course outputs from executive AI training programs
 - **About** — professional background and what I'm looking for
 - **Connect** — LinkedIn and contact information
